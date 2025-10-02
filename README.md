@@ -1,4 +1,3 @@
-# phd-management-system
 # PhD Management System
 
 ![PhD Management System Banner](https://via.placeholder.com/800x200/00A3B5/FFFFFF?text=PhD+Management+System)  
